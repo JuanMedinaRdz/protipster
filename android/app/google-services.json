@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "666783981570",
+    "project_id": "appjacc-ce47a",
+    "storage_bucket": "appjacc-ce47a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:666783981570:android:789393d95e4eb72ca4071b",
+        "android_client_info": {
+          "package_name": "com.example.protipster"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAfd2JIqi1A2FuOVgk4ry-vZgN1RUWQ3-s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
